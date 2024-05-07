@@ -1,4 +1,4 @@
 # SSL
-Sintaxis y Semántica de los Lenguajes
-Herzkovich Agustín
+Sintaxis y Semántica de los Lenguajes. 
+Herzkovich Agustín. 
 K2002
