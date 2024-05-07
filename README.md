@@ -1,4 +1,5 @@
 # SSL
-Sintaxis y Semántica de los Lenguajes 
-- Herzkovich Agustín
-- K2002
+- Asignatura: Sintaxis y Semántica de los Lenguajes 
+- Alumno: Herzkovich Agustín Nicolás
+- Legajo: 213.787-2
+- Comisión: K2002
